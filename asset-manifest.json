@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monstor-robot/static/css/main.5ab94e63.chunk.css",
+    "main.js": "/Monstor-robot/static/js/main.ec570c83.chunk.js",
+    "main.js.map": "/Monstor-robot/static/js/main.ec570c83.chunk.js.map",
+    "runtime-main.js": "/Monstor-robot/static/js/runtime-main.0d2904e8.js",
+    "runtime-main.js.map": "/Monstor-robot/static/js/runtime-main.0d2904e8.js.map",
+    "static/js/2.ac8e234b.chunk.js": "/Monstor-robot/static/js/2.ac8e234b.chunk.js",
+    "static/js/2.ac8e234b.chunk.js.map": "/Monstor-robot/static/js/2.ac8e234b.chunk.js.map",
+    "index.html": "/Monstor-robot/index.html",
+    "precache-manifest.2d1c0a21d5f6d6c38c7fecf95ee072ad.js": "/Monstor-robot/precache-manifest.2d1c0a21d5f6d6c38c7fecf95ee072ad.js",
+    "service-worker.js": "/Monstor-robot/service-worker.js",
+    "static/css/main.5ab94e63.chunk.css.map": "/Monstor-robot/static/css/main.5ab94e63.chunk.css.map",
+    "static/js/2.ac8e234b.chunk.js.LICENSE": "/Monstor-robot/static/js/2.ac8e234b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d2904e8.js",
+    "static/js/2.ac8e234b.chunk.js",
+    "static/css/main.5ab94e63.chunk.css",
+    "static/js/main.ec570c83.chunk.js"
+  ]
+}
